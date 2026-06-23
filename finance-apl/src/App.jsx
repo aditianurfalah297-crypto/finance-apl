@@ -5,12 +5,12 @@ import { Shield, Menu, Plus, Trash2, Database } from 'lucide-react';
 
 const firebaseConfig = {
   const firebaseConfig = {
-  apiKey: "AIzaSyC...", // ganti dengan yang ada di gambar
+  apiKey: "AIzaSyC6rwmeo1m-E3OO5Zh45Sl3RZCEq7Tcom0", //
   authDomain: "finance-apl.firebaseapp.com",
   projectId: "finance-apl",
-  storageBucket: "finance-apl.appspot.com",
+  storageBucket: "finance-apl.firebasestorage.app",
   messagingSenderId: "771015820888",
-  appId: "1:771015820888:web:c8fe..."
+  appId: "1:771015820088:web:c0feedc916b38c5f7677cd"
 };
 
 const app = initializeApp(firebaseConfig);
